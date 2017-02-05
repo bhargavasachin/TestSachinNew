@@ -1,8 +1,9 @@
-﻿using System.Linq;
+using System.Linq;
 using System.Threading.Tasks;
 using IntelSecurity.MessagingAPI.Core.Model;
 using IntelSecurity.MessagingAPI.Infrastructure.Extensions;
 ///testsachinnewcomment
+//macpro dev branch create
 namespace IntelSecurity.MessagingAPI.Infrastructure.Filters
 {
     public class EventMessageFilter : MessageFilter
